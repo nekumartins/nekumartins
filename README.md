@@ -1,11 +1,6 @@
-## 👋 Hi there!, I'm Riley
+## 👋 Hi there!, I'm Chukwuneku
 
-Software Developer, Tech Enthusiast and currently a Computer Science student at Babcock University. I'm passionate about Data Science and Learning new Skills.
-
-## 💼 Education
-- Uppsala University - 2021-2022(Game Design and Graphics)
-- Babcock University - 2022-Present(Computer Science)
-
+ Software & ML Engineer, Tech Enthusiast and Computer Science Major at Babcock University. I'm passionate about Data Science, Learning new Skills and dedicated to expanding my knowledge and gaining practical experience in the field of Machine Learning
 
 ## 🌱 I'm currently learning
 
@@ -39,14 +34,14 @@ Software Developer, Tech Enthusiast and currently a Computer Science student at 
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=nekumartins&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=nekumartins&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5" />
   <br></br>
-  <img src="github-readme-streak-stats.herokuapp.com?user=nekumartins">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nekumartins&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5">
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nekumartins&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nekumartins&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5&langs_count=10"/>
   
   </td>
 </tr>
